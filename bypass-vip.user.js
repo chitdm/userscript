@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          BYPASS.VIP BYPASSER
 // @namespace     bypass.vip
-// @version       1.4.4
+// @version       1.4.5
 // @author        bypass.vip
 // @description   Bypass ad-links using the bypass.vip API and get to your destination without ads!
 // @match         *://mega-guy.com/*
@@ -94,6 +94,7 @@
 // @match         *://vip-linknetwork.com/*
 // @match         *://birdbiss.com/*
 // @match         *://loot-labs.com/*
+// @match         *://links.lootlabs.gg/*
 // @match         *://lootlabs.com/*
 // @match         *://link-hub.net/*
 // @match         *://locconnect.com/*
@@ -189,6 +190,7 @@
 // @match         *://esohasl.net/*
 // @match         *://rbscripts.net/*
 // @match         *://link.rbscripts.net/*
+// @match         *://auth.platorelay.com/*
 // @downloadURL   https://raw.githubusercontent.com/bypass-vip/userscript/master/bypass-vip.user.js
 // @updateURL     https://raw.githubusercontent.com/bypass-vip/userscript/master/bypass-vip.user.js
 // @homepageURL   https://bypass.vip
